@@ -1,0 +1,2 @@
+terminals: ["yarn install && yarn dev"]
+tabs: ["src/app.service.ts", "src/main.ts"]
